@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .hero-container {
   position: absolute;
-  bottom: 0;
+  bottom: 100px;
   top: 100px;
   left: 0;
   right: 0;
