@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-fixed {
-  background: rgba(216, 218, 219, 0.9);
+  background: rgba(216, 218, 219, 1.0);
   padding: 20px 0;
   height: 72px;
   transition: all 0.5s;
